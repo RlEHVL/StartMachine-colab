@@ -41,7 +41,9 @@
 
 ## **2. 범주형 데이터**
 ### 범주형 데이터 이해와 처리  
-범주형 데이터를 수치형 데이터로 변환하는 방법(인코딩)을 다룹니다.[머신러닝_범주형-데이터](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1plnVKmya3xGY1bb_GRlIgwIxutmU-dCB)
+범주형 데이터를 수치형 데이터로 변환하는 방법(인코딩)을 다룹니다.
+
+- **자료 링크**: [[머신러닝_범주형-데이터](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1plnVKmya3xGY1bb_GRlIgwIxutmU-dCB)
 
 - **주요 내용**:
   1. 범주형 데이터란?
