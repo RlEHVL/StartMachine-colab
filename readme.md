@@ -45,6 +45,7 @@
 
 - **자료 링크**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RIEHVL/StartMachine-colab/blob/main/머신러닝/범주형_데이터.ipynb)
 
+
 - **주요 내용**:
   1. 범주형 데이터란?
   2. Label Encoding vs One-Hot Encoding
