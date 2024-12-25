@@ -65,6 +65,7 @@
 
 ---
 
-## **라이선스**
-이 프로젝트는  하에 배포됩니다.  
-사용 시 반드시 출처를 표기해주세요.
+## License
+This project is protected under a **Proprietary License**. Unauthorized use, copying, modification, or distribution of this project, in part or in full, is strictly prohibited.  
+For permissions or inquiries, please contact [fotmdhdn@jj.ac.kr].
+
