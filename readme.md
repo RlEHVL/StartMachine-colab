@@ -51,9 +51,9 @@
 - **주요 내용**:
   1. 범주형 데이터란?
      - 범주형에는 순서형 | 명목형 데이터가 있습니다.  
-  3. Label Encoding vs One-Hot Encoding
+  2. Label Encoding vs One-Hot Encoding
      -
-  5. 실습: Pandas와 Scikit-learn 활용
+  3. 실습: Pandas와 Scikit-learn 활용
 
 ---
 
