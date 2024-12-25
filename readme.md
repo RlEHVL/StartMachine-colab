@@ -31,6 +31,7 @@
 3. [연속형 데이터 처리](#3-연속형-데이터-처리)
 4. [기본 모델 학습](#4-기본-모델-학습)
 5. [프로젝트 예제](#5-프로젝트-예제)
+6. [라이센스](#6-License)
 
 ---
 
@@ -65,7 +66,7 @@
 
 ---
 
-## License
+## **License**
 This project is protected under a **Proprietary License**. Unauthorized use, copying, modification, or distribution of this project, in part or in full, is strictly prohibited.  
 For permissions or inquiries, please contact [fotmdhdn@jj.ac.kr].
 
