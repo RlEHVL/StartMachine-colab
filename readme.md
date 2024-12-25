@@ -66,7 +66,7 @@
 
 ---
 
-## **License**
+## **6. License**
 This project is protected under a **Proprietary License**. Unauthorized use, copying, modification, or distribution of this project, in part or in full, is strictly prohibited.  
 For permissions or inquiries, please contact [fotmdhdn@jj.ac.kr].
 
